@@ -19,5 +19,5 @@ window.Config = {
 			text: 'GitHub',
 			url: 'https://github.com/Yuameshi/'
 		}
-	]
+	],
 };
